@@ -7,3 +7,4 @@ This repository contains the source code of NFT contracts.
 - [Skyward NFT](./skyward/README.md)
 - [Nest NFT](./nest/README.md)
 - [Egg NFT](./egg/README.md)
+- [KagePass NFT](./kage_pass/README.md)
